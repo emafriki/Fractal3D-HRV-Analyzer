@@ -31,8 +31,8 @@ The app also calculates the fractal dimension using the box-counting algorithm a
 
 ### **1. Clone this repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/emafriki/Fractal3D-HRV-Analyzer.git
+cd Fractal3D-HRV-Analyzer
 ```
 
 ### **2. Create a virtual environment (recommended)**
@@ -69,23 +69,10 @@ Using **PyInstaller**:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed fractal_app.py
+pyinstaller --onefile --windowed Fractal3D-HRV-Analyzer.py
 ```
 
 The executable will be created in the `dist/` folder.
-
----
-
-## 📁 Repository Structure
-
-```
-FractalApp/
-│
-├── fractal_app.py          # Main application
-├── requirements.txt        # Dependencies
-├── README.md               # Documentation
-└── examples/               # Optional images or sample data
-```
 
 ---
 

@@ -2,8 +2,15 @@
 **Author:** Alma Rocío Patiño Chávez  
 **Version:** 1.0  
 
-FractalApp is a graphical interface built in Python/Tkinter that generates 2D (Sierpiński Triangle) and 3D (Sierpiński Tetrahedron) fractal structures from one-dimensional time-series data, such as Heart Rate Variability (HRV).  
+FractalApp is a graphical interface built in Python/Tkinter that generates 2D (Sierpinski Triangle) and 3D (Sierpinski Tetrahedron) fractal structures from one-dimensional time-series data, such as Heart Rate Variability (HRV).  
 The app also calculates the fractal dimension using the box-counting algorithm and allows exporting images and GIF animations.
+
+### Interface Preview
+
+<p align="center">
+  <img src="preview/interfaz.gif" width="700">
+</p>
+
 
 ---
 

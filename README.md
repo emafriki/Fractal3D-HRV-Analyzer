@@ -65,7 +65,7 @@ pip install numpy pandas matplotlib imageio
 ## ▶️ Running the Application
 
 ```bash
-python fractal_app.py
+python interfaz2d3d.py
 ```
 
 ---
@@ -76,7 +76,7 @@ Using **PyInstaller**:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed Fractal3D-HRV-Analyzer.py
+pyinstaller --onefile --windowed interfaz2d3d.py
 ```
 
 The executable will be created in the `dist/` folder.
